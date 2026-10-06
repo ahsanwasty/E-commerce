@@ -1,13 +1,3 @@
-/* =========================================================
-   script.js  (PRACTICE FILE - contains intentional bugs)
-   Expected element IDs in your HTML:
-   liveDateTime, cartCount, cartTotal, qtyInput, couponInput,
-   searchInput, searchResults, loginEmail, loginPassword, rememberMe,
-   signupName, signupEmail, signupPhone, signupAge,
-   signupPassword, signupConfirm, formMessage
-   ========================================================= */
-
-/* ---------- Clock ---------- */
 document.addEventListener("DOMContentLoaded", function () {
   const clock = document.getElementById("liveDateTime");
 
